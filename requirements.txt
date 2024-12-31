@@ -1,12 +1,16 @@
 langchain
-langgraph
-cassio
 langchain_community
+langchain_experimental
+langgraph
 tiktoken
-langchain-groq
-langchainhub
-chromadb
-langchain_huggingface
 arxiv
 wikipedia
+flask
+pypdf
+cassio
+langchain-groq
+python-dotenv
+langchain-google-genai
+duckduckgo-search
+tavily-python
 -e .
